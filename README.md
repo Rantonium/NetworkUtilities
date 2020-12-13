@@ -1,8 +1,9 @@
+```
 # NetworkUtilities
 Repo with various network scripts
 
 Scripts contained here so far:
-  -> 8b10b encoder \n
+  -> 8b10b encoder
   -> bit stuffer 
   -> hamming encoder
   -> ip discorvery
@@ -10,3 +11,4 @@ Scripts contained here so far:
   -> packet sniffer for linux
   -> wifi password discoverer for windows
   -> trellis encoder
+```
