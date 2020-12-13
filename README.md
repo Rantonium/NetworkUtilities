@@ -2,7 +2,7 @@
 Repo with various network scripts
 
 Scripts contained here so far:
-  -> 8b10b encoder
+  -> 8b10b encoder \n
   -> bit stuffer 
   -> hamming encoder
   -> ip discorvery
